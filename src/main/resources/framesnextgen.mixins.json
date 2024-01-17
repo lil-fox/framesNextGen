@@ -7,6 +7,7 @@
     "magiclibfix.WidgetConfigOptionMixin"
   ],
   "client": [
+    "ItemFrameEntityRendererMixin",
     "magiclibfix.GuiBaseMixin"
   ],
   "injectors": {
