@@ -4,8 +4,10 @@
   "package": "net.lilfox.framesnextgen.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "magiclibfix.WidgetConfigOptionMixin"
   ],
   "client": [
+    "magiclibfix.GuiBaseMixin"
   ],
   "injectors": {
     "defaultRequire": 1
