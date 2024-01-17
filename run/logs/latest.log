@@ -1,0 +1,108 @@
+[13:22:57] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.2 with Fabric Loader 0.15.5
+[13:22:57] [main/INFO] (FabricLoader) Loading 61 mods:
+	- fabric-api 0.91.3+1.20.2
+	- fabric-api-base 0.4.33+fce67b32a0
+	- fabric-api-lookup-api-v1 1.6.42+b1792f7da0
+	- fabric-biome-api-v1 13.0.14+b1792f7da0
+	- fabric-block-api-v1 1.0.12+73761d2ea0
+	- fabric-block-view-api-v2 1.0.1+73761d2ea0
+	- fabric-blockrenderlayer-v1 1.1.43+f4b7e424a0
+	- fabric-client-tags-api-v1 1.1.4+86b12645a0
+	- fabric-command-api-v1 1.2.37+f71b366fa0
+	- fabric-command-api-v2 2.2.16+b1792f7da0
+	- fabric-commands-v0 0.2.54+df3654b3a0
+	- fabric-containers-v0 0.1.79+df3654b3a0
+	- fabric-content-registries-v0 5.0.5+b1792f7da0
+	- fabric-convention-tags-v1 1.5.8+b1792f7da0
+	- fabric-crash-report-info-v1 0.2.20+f4b7e424a0
+	- fabric-data-generation-api-v1 13.1.9+b1792f7da0
+	- fabric-dimensions-v1 2.1.57+b1792f7da0
+	- fabric-entity-events-v1 1.5.26+b1792f7da0
+	- fabric-events-interaction-v0 0.6.10+b1792f7da0
+	- fabric-events-lifecycle-v0 0.2.69+df3654b3a0
+	- fabric-game-rule-api-v1 1.0.42+a44e16a6a0
+	- fabric-gametest-api-v1 1.2.16+b1792f7da0
+	- fabric-item-api-v1 2.1.33+b1792f7da0
+	- fabric-item-group-api-v1 4.0.15+e3d2bf3fa0
+	- fabric-key-binding-api-v1 1.0.38+f4b7e424a0
+	- fabric-keybindings-v0 0.2.36+df3654b3a0
+	- fabric-lifecycle-events-v1 2.2.27+b1792f7da0
+	- fabric-loot-api-v2 2.1.1+3ba460fba0
+	- fabric-message-api-v1 6.0.2+e3d2bf3fa0
+	- fabric-mining-level-api-v1 2.1.55+f4b7e424a0
+	- fabric-model-loading-api-v1 1.0.6+b1792f7da0
+	- fabric-models-v0 0.4.5+9386d8a7a0
+	- fabric-networking-api-v1 3.1.3+b8b4f0e5a0
+	- fabric-object-builder-api-v1 12.1.2+2ff98d3ba0
+	- fabric-particles-v1 1.1.4+f4b7e424a0
+	- fabric-recipe-api-v1 2.0.12+52b3ebe5a0
+	- fabric-registry-sync-v0 4.0.10+b1792f7da0
+	- fabric-renderer-api-v1 3.2.1+2034447ca0
+	- fabric-renderer-indigo 1.5.1+2034447ca0
+	- fabric-renderer-registries-v1 3.2.49+df3654b3a0
+	- fabric-rendering-data-attachment-v1 0.3.39+73761d2ea0
+	- fabric-rendering-fluids-v1 3.0.30+f4b7e424a0
+	- fabric-rendering-v0 1.1.52+df3654b3a0
+	- fabric-rendering-v1 3.0.11+b1792f7da0
+	- fabric-resource-conditions-api-v1 2.3.11+239dafd8a0
+	- fabric-resource-loader-v0 0.11.12+b1792f7da0
+	- fabric-screen-api-v1 2.0.12+b1792f7da0
+	- fabric-screen-handler-api-v1 1.3.45+b1792f7da0
+	- fabric-sound-api-v1 1.0.14+f4b7e424a0
+	- fabric-transfer-api-v1 3.3.12+4944b5a5a0
+	- fabric-transitive-access-wideners-v1 5.0.3+fce67b32a0
+	- fabricloader 0.15.5
+	   \-- mixinextras 0.3.2
+	- framesnextgen 0.1.0-1.20.2
+	- java 17
+	- lazydfu 0.1.3
+	- magiclib 0.7.398+fe2125a-stable
+	- magiclib-1_20_2 0.7.398+fe2125a-stable
+	- malilib 0.17.0
+	- minecraft 1.20.2
+	- modmenu 8.0.0
+[13:22:57] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/demos/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[13:22:58] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[13:22:58] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
+[13:22:58] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[13:23:00] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[13:23:14] [Render thread/INFO] (Minecraft) Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:23:14] [Render thread/INFO] (Minecraft) Setting user: Player325
+[13:23:15] [Render thread/INFO] (fabric-networking-api-v1) Force Packet Serialization is enabled to mimic remote connection on single player, this is the default behaviour on dev env. Add -Dfabric-api.networking.force-packet-serialization=false JVM arg to disable it.
+[13:23:15] [Render thread/INFO] (magiclib) [MagicLib|Common]: Mod initialized - Version: 0.7.398+fe2125a-stable
+[13:23:15] [Render thread/INFO] (magiclib) [MagicLib|Client]: Mod initialized - Version: 0.7.398+fe2125a-stable
+[13:23:15] [Worker-Main-2/INFO] (Mod Menu/Update Checker) Checking mod updates...
+[13:23:15] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[13:23:16] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.2-snapshot
+[13:23:18] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric (fabric-item-api-v1, fabric-convention-tags-v1, fabric-key-binding-api-v1, fabric-data-generation-api-v1, fabric-commands-v0, fabric-message-api-v1, fabric-blockrenderlayer-v1, fabric-rendering-v0, fabric-game-rule-api-v1, fabric-command-api-v1, fabric-resource-conditions-api-v1, fabric-item-group-api-v1, malilib, fabric-biome-api-v1, fabric-recipe-api-v1, fabric-block-view-api-v2, fabric-rendering-fluids-v1, fabric-loot-api-v2, fabric-entity-events-v1, fabric-command-api-v2, fabric-rendering-v1, fabric-api, fabric-registry-sync-v0, fabric-sound-api-v1, fabric-dimensions-v1, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-transitive-access-wideners-v1, fabric-api-base, fabric-models-v0, fabric-keybindings-v0, fabric-content-registries-v0, fabric-screen-handler-api-v1, fabric-rendering-data-attachment-v1, magiclib-1_20_2, fabricloader, fabric-gametest-api-v1, fabric-renderer-api-v1, magiclib, fabric-containers-v0, fabric-particles-v1, fabric-object-builder-api-v1, modmenu, fabric-networking-api-v1, fabric-api-lookup-api-v1, fabric-renderer-indigo, fabric-events-lifecycle-v0, fabric-screen-api-v1, fabric-transfer-api-v1, fabric-renderer-registries-v1, lazydfu, fabric-model-loading-api-v1, fabric-block-api-v1, fabric-mining-level-api-v1, fabric-resource-loader-v0, fabric-lifecycle-events-v1, fabric-client-tags-api-v1)
+[13:23:19] [Worker-Main-7/INFO] (Minecraft) Found unifont_all_no_pua-15.0.06.hex, loading
+[13:23:21] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
+[13:23:21] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:23:22] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Наушники (Realtek(R) Audio)
+[13:23:22] [Render thread/INFO] (Minecraft) Sound engine started
+[13:23:22] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13:23:22] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:23:22] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:23:22] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:23:22] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:23:23] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:23:23] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:23:23] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:23:23] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:23:23] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:23:23] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:23:23] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:23:23] [Render thread/INFO] (Minecraft) Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:23:23] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:23:24] [IO-Worker-1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
+[13:23:24] [IO-Worker-1/ERROR] (Minecraft) Couldn't connect to realms
+net.minecraft.client.realms.exception.RealmsServiceException: Realms authentication error with message 'Invalid session id'
+	at net.minecraft.client.realms.RealmsClient.execute(RealmsClient.java:432) ~[minecraft-merged-project-root-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.realms.RealmsClient.clientCompatible(RealmsClient.java:218) ~[minecraft-merged-project-root-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at net.minecraft.client.realms.RealmsAvailability.method_52627(RealmsAvailability.java:45) ~[minecraft-merged-project-root-1.20.2-net.fabricmc.yarn.1_20_2.1.20.2+build.4-v2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13:25:01] [Render thread/WARN] (Mod Menu | FabricMod) Warning! Mod framesnextgen has a broken icon, loading default icon
+[13:25:05] [Render thread/INFO] (Minecraft) Stopping!

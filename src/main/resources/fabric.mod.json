@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "framesnextgen",
+  "version": "${version}",
+  "name": "Frames Next Gen",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": ""
+  },
+  "license": "MIT",
+  "icon": "assets/framesnextgen/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.lilfox.framesnextgen.client.FramesNextGenClient"
+    ]
+  },
+  "mixins": [
+    "framesnextgen.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
