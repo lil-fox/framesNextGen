@@ -39,6 +39,10 @@ repositories {
             includeGroup("com.github.Nyan-Work")
         }
     }
+
+    repositories {
+        mavenCentral()
+    }
 }
 
 dependencies {
@@ -53,6 +57,8 @@ dependencies {
     modImplementation("top.hendrixshen.magiclib:magiclib-${project.minecraft_version.replace(".", "_")}:${project.magiclib_version}") {
         exclude(group: "carpet", module: "fabric-carpet")
     }
+
+    modImplementation "com.ptsmods:devlogin:3.4.1"
 }
 
 processResources {

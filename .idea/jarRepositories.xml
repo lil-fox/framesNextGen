@@ -41,5 +41,20 @@
       <option name="name" value="LoomGlobalMinecraft" />
       <option name="url" value="file:/$USER_HOME$/.gradle/caches/fabric-loom/minecraftMaven/" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="Curse Maven" />
+      <option name="name" value="Curse Maven" />
+      <option name="url" value="https://www.cursemaven.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Modrinth Maven" />
+      <option name="name" value="Modrinth Maven" />
+      <option name="url" value="https://api.modrinth.com/maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Jitpack Maven" />
+      <option name="name" value="Jitpack Maven" />
+      <option name="url" value="https://jitpack.io" />
+    </remote-repository>
   </component>
 </project>

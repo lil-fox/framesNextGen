@@ -60,8 +60,11 @@ public class Configs {
     )
     public static double invisibleFramesZOffset = 0.4375f;
 
+//    @Config(category="configs")
+//    public static boolean hangableEntitiesBypassReverse;
+
     @Hotkey(
-            hotkey = "B,F"
+            hotkey = "F,C"
     )
     @Config(
             category = "configs"
